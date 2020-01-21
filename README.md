@@ -18,4 +18,17 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 ![screenshot](https://i.imgur.com/LucYw0u.png)
 ![screenshot](https://i.imgur.com/PYpfXQK.png)
 
+* Author Name : Mohamed Abdullah
+* Author links :   
+<ol>
+  <li>github: https://github.com/MohamedAbdullahKamel</li>
+  <li>linkedin:  https://www.linkedin.com/in/mohamedabdullahkamel/</li>
+  <li>kaggle:  https://www.kaggle.com/mohamedabdullah</li>
+<ol>
+                                      
+* Version : v.1.0.0
+* Organization : brainless
+
+
+
 Good Luck 😊
