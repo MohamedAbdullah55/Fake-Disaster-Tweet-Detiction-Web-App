@@ -29,6 +29,4 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 * Version : v.1.0.0
 * Organization : brainless
 
-
-
 Good Luck 😊
