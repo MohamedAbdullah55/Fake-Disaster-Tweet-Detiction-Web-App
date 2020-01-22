@@ -12,6 +12,17 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 
 * Model : https://www.kaggle.com/mohamedabdullah/disaster-tweets-solution
 
+## Technologies and Programs
+
+* Html
+* Css
+* Js
+* Bootstrap
+* Python
+* Flask
+* Visual Studio Code
+* Postman
+
 ## App screenshots
 
 ![screenshot](https://i.imgur.com/dLGFZaN.png)
