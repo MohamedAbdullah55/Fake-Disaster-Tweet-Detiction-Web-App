@@ -6,7 +6,7 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 
 ## You will find my App, data, and model here 👇
 
-* App : https://drive.google.com/open?id=1t8ZCyvjsXRc6fllxqRuUtmxpSId7nA9T
+* App : https://drive.google.com/open?id=131Pl6-uTFIC2JARgas5NW5DAFjLVBAHD
 
 * Data : https://www.kaggle.com/c/nlp-getting-started/data
 
