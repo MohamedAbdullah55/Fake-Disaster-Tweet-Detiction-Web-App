@@ -1,4 +1,4 @@
-# Fake-Disaster-Tweet-Detiction-Web-App
+# Fake-Disaster-Tweet-Detection-Web-App
 
 Simpel web api/service to detect fake Disaster Tweet based on ensembel machine learning model called voting classifier.
 
@@ -22,6 +22,10 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 * Flask
 * Visual Studio Code
 * Postman
+
+## API test using postman program
+
+![screenshot](https://i.imgur.com/nCtZLoN.png)
 
 ## App screenshots
 
