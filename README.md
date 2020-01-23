@@ -4,13 +4,13 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 
 ![screenshot](https://about.twitter.com/content/dam/about-twitter/company/brand-resources/en_us/OTB_Company_Blue.png.img.fullhd.medium.png)
 
-## You will find my App, data, and model here 👇
+## You will find my model, data, and ml code here 👇
 
-* App : https://drive.google.com/open?id=131Pl6-uTFIC2JARgas5NW5DAFjLVBAHD
+* Model : https://drive.google.com/open?id=131Pl6-uTFIC2JARgas5NW5DAFjLVBAHD
 
 * Data : https://www.kaggle.com/c/nlp-getting-started/data
 
-* Model : https://www.kaggle.com/mohamedabdullah/disaster-tweets-solution
+* Ml code : https://www.kaggle.com/mohamedabdullah/disaster-tweets-solution
 
 ## Technologies and Programs
 
