@@ -25,7 +25,7 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 
 ## API test using postman program
 
-![screenshot](https://i.imgur.com/nCtZLoN.png)
+![screenshot](https://i.imgur.com/9JyzUnI.png)
 
 ## App screenshots
 
