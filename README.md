@@ -43,6 +43,6 @@ Simpel web api/service to detect fake Disaster Tweet based on ensembel machine l
 </ol>
                                       
 * Version : v.1.0.0
-* Organization <a href='https://github.com/darvis-ai?fbclid=IwAR0EqRKmVHIQ2EWAl9wCR0tKyUjmBcoMK53FBDQC6zSeOrM6dqw4WdAOXjg'>brainless</a>
+* Organization : brainless
 
 Good Luck 😊
